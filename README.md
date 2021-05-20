@@ -10,6 +10,7 @@ All tests are located under the test folder.
 Test the token using uniswap V2
 ```
 npx hardhat test test/testTokenV2.js
+```
 
 Test the token using uniswapV3
 ```
